@@ -1,0 +1,67 @@
+.geome {
+    position: absolute!important;
+    top: 20px;
+    right: 20px;
+    z-index: 400;
+    width: 30px;
+  }
+
+  #plussweb-map{
+    width: 100%;
+    height: 100vh;
+  }
+.leaflet-left {
+    left: -4px;
+}
+  #sidebar{
+      width: 20%;
+      padding: 10px;
+      direction: rtl;
+      text-align: right;
+      position: absolute;
+      z-index: 1000;
+      left: 40px;
+      /* top: 0;
+      left: 50%; */
+  }
+
+  #search{
+    display: flex;
+  }
+
+  @media only screen and (max-width: 768px) {
+    #sidebar{
+        width: 50%;
+    }
+    #plussweb-map{
+        width: 100%;
+        height: 50vh;
+      }
+    div#results {
+        margin-top: 0.4em;
+        overflow-y: scroll;
+        height: 50%;
+    }
+  }
+
+
+.btn{
+    padding: .30rem .30rem !important;
+}
+
+.address {
+    font-size: 12px;
+    border-bottom: 1px solid #ccc;
+    padding: 5px;
+    background: #fff;
+    opacity: 0.7;
+}
+
+div#results {
+    margin-top: 0.4em;
+}
+
+#logoplussweb{
+    width: 100px;
+}
+

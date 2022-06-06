@@ -1,0 +1,11 @@
+{
+    "Posts": true,
+    "Slider": true,
+    "News": true,
+    "Banner": true,
+    "Brands": true,
+    "Brand": true,
+    "Message": true,
+    "Contact": true,
+    "Complain": true
+}

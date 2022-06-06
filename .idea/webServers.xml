@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b59a286d-5443-41c1-baee-40cb2e5e0c39" name="daemi-system" url="http://2870352403.cloudylink.com">
+        <fileTransfer rootFolder="/domains/daemi-system.ir/public_html" host="2870352403.cloudylink.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
